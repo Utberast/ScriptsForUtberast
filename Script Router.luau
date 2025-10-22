@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hub/refs/heads/Branch/Game"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Utberast/ScriptsForUtberast/refs/heads/main/ScriptRoutuer2.luau"))()
 
 --[[
 	{
